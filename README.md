@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕 날 소개하지, 내이름 박종현 직업은 traveler
+
+### 취미는 tachi meditation 독서 영화 시청 👋
 
 <!--
 **JooSeungSae/JooSeungSae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
